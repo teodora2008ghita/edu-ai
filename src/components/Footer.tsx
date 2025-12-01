@@ -11,17 +11,9 @@ export const Footer = () => {
           </div>
           
           <p className="text-sm text-muted-foreground text-center md:text-left">
-            © 2024 Edu AI. Platformă educațională pentru fizică și mecanică.
+            Aplicație creată de Ghita Teodora.
           </p>
-          
-          <div className="flex gap-4 text-sm text-muted-foreground">
-            <a href="#" className="hover:text-primary transition-colors">
-              Contact
-            </a>
-            <a href="#" className="hover:text-primary transition-colors">
-              Despre
-            </a>
-          </div>
+        
         </div>
       </div>
     </footer>
